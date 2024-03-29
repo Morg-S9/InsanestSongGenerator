@@ -1,0 +1,4 @@
+# Python Virt Env
+/venv/
+# API Secrets and Important Data (will be populated by user on clone) 
+/secrets/
